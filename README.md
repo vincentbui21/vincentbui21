@@ -11,7 +11,7 @@
 # 📊 GitHub Stats Summary:
 ![](https://github-readme-stats.vercel.app/api?username=vincentbui21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)</br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vincentbui21&theme=dark&hide_border=true)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbui21&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentbui21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # ✍️ My favorite Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
