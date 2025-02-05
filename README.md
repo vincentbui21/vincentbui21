@@ -1,5 +1,5 @@
 # 💫 What's good!:
-👋Hi there, I'm Vincent Bui<br>🏫 I'm studying IT at Savonia University of Applied Science<br>👀 I'm interested in AI, Designing and Web Development<br>📨 Reach out to me: vincentbui2108@gmail.com<br>⚡Fun fact: I'm fairly good at Sketching and Designing
+👋Hi there, I'm <b><i>Vincent Bui</i></b><br>🏫 I'm studying IT at <b><i>Savonia University of Applied Science</i></b><br>👀 I'm interested in AI, Designing and Web Development<br>📨 Reach out to me: vincentbui2108@gmail.com<br>⚡Fun fact: I'm fairly good at Sketching and Designing
 
 
 ## 🤝 Let's network:
