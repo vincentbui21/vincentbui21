@@ -1,6 +1,6 @@
 # 💫 What's good!:
 👋Hi there, I'm <b><i>Vincent Bui</i></b><br>🏫 I'm studying IT at <b><i>Savonia University of Applied Science</i></b><br>👀 I'm interested in AI, Designing and Web Development<br>📨 Reach out to me: vincentbui2108@gmail.com<br>⚡Fun fact: I'm fairly good at Sketching and Designing
-
+ 
 
 ## 🤝 Let's network:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kiet.bui.5855594) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vincent-bui-5b1ba3253/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29518339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vincentbui2108@gmail.com) 
